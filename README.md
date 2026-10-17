@@ -1,6 +1,6 @@
 
 # SECURE STAY
 
-## Universal Hostel Management System
+## Hostel Management System
 
 One Platform. Every Hostel.
